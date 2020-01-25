@@ -16,7 +16,7 @@ _Note: The variable name you use within the `my_hash` method does not actually m
 
 Remember, key/value pairs are associative. It doesn't make sense to have a key/value pair of `"my_name" => 78`. It *does* make sense to have a key/value pair of `"my_name" => "Herman Melville"` (if you happen to be that author, of course). 
 
-### Challenge II: Hash with Data
+###https://learn.co/tracks/online-software-engineering-structured/procedural-ruby/hashes/using-hashes# Challenge II: Hash with Data
 
 In the `shipping_manifest` method, set a variable called `the_manifest` equal to a hash.
 
