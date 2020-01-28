@@ -30,14 +30,12 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  # add 2 muskets to the shipping_manifest hash below
+  # {"five" => "two" => "three"}
 
+hash = ["oil paintings" = "shipping_manifest"]
 
+hash =  ["gun power"] = 4 
+  
 
-  # add 4 gun powder to the shipping_manifest hash below
-
-
-
-  # return the shipping_manifest hash below
 
 end
